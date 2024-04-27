@@ -1,7 +1,7 @@
 <?php
 /**
  * Este es un script de ejemplo para la práctica.
- *
+ * Esto es una modificación para probar que actualiza GIT
  * Este script contiene funciones de ejemplo con su respectiva documentación.
  *
  * @package PracticaGarcia
